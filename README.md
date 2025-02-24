@@ -1,6 +1,6 @@
 # ISIA_Mood
 
-ISIA Urbino
+ISIA Urbino<br>
 Triennio in Progettazione grafica e comunicazione visiva
 Corso di Design dell’Interfaccia I
 a.a. 2024-2025
